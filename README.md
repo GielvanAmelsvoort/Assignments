@@ -5,4 +5,5 @@
 [assignment 4](https://github.com/GielvanAmelsvoort/Assignments/blob/master/assignment4%20(1)%20(1).ipynb)
 [assignment 1](https://github.com/GielvanAmelsvoort/Assignments/blob/master/Graded_assignment1%20(1).ipynb)
 [assignment 2](https://github.com/GielvanAmelsvoort/Assignments/blob/master/Graded_assignment_2%20(1).ipynb)
-[21 Sep Final Pyton](
+[21 Sep Final Pyton](https://github.com/GielvanAmelsvoort/Assignments/blob/master/exam_Sep_21_2018%20(1).ipynb)
+[21 Sep Final R](
